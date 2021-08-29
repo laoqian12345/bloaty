@@ -6,5 +6,4 @@
 	url = https://hub.fastgit.org/google/googletest.git
 [submodule "third_party/libFuzzer"]
 	path = third_party/libFuzzer
-	# url = https://chromium.googlesource.com/chromium/llvm-project/llvm/lib/Fuzzer
 	url = https://hub.fastgit.org/rurban/Fuzzer.git
